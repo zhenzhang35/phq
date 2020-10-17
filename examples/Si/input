@@ -1,0 +1,7 @@
+dt                 20.67055273 
+step_md_use        5000
+correlation_time   1000 
+pole               1000
+supercell          4 4 4
+temperature        900
+method             0
